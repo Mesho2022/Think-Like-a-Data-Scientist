@@ -3,7 +3,7 @@
 ### *A mental framework for analytical thinking, even when the IDE is closed.*
 
 ---
-
+ 
 ## 1. Introduction, The Myth of the Coder-Scientist
 
 When people hear *data science*, they imagine a person surrounded by screens full of Python scripts, complex neural nets, and cryptic equations.
